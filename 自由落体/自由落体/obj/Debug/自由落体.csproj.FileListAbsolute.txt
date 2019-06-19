@@ -1,0 +1,6 @@
+D:\WeGame\自由落体\自由落体\bin\Debug\自由落体.exe.config
+D:\WeGame\自由落体\自由落体\bin\Debug\自由落体.exe
+D:\WeGame\自由落体\自由落体\bin\Debug\自由落体.pdb
+D:\WeGame\自由落体\自由落体\obj\Debug\自由落体.csprojResolveAssemblyReference.cache
+D:\WeGame\自由落体\自由落体\obj\Debug\自由落体.exe
+D:\WeGame\自由落体\自由落体\obj\Debug\自由落体.pdb

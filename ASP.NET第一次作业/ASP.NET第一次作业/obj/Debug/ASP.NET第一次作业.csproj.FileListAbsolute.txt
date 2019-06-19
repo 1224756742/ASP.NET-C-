@@ -1,0 +1,6 @@
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\bin\Debug\ASP.NET第一次作业.exe.config
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\bin\Debug\ASP.NET第一次作业.exe
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\bin\Debug\ASP.NET第一次作业.pdb
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\obj\Debug\ASP.NET第一次作业.csprojResolveAssemblyReference.cache
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\obj\Debug\ASP.NET第一次作业.exe
+D:\WeGame\ASP.NET第一次作业\ASP.NET第一次作业\obj\Debug\ASP.NET第一次作业.pdb
